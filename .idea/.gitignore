@@ -1,0 +1,7 @@
+# Default ignored files
+*.DS_Store
+*.iml
+*.xml
+*.npy
+/shelf/
+/workspace.xml
